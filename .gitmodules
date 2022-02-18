@@ -1,0 +1,6 @@
+[submodule "PenguStore-Server"]
+	path = PenguStore-Server
+	url = git@github.com:Penguin-Dream-Team/PenguStore-Server.git
+[submodule "PenguStore-Mobile"]
+	path = PenguStore-Mobile
+	url = git@github.com:Penguin-Dream-Team/PenguStore-Mobile.git
